@@ -1,0 +1,23 @@
+/*Body*/
+.container {
+    width: 100%;
+    height: 100vh;
+    padding: 36px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(243, 243, 243, 0.984);
+  }
+  
+  .container h2 {
+    margin-bottom: 12px;
+  }
+  .container h3 {
+    margin: 20px;
+  }
+  
+
+  .top {
+    height: 500px;
+  }
+
